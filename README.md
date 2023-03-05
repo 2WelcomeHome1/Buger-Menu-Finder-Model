@@ -10,7 +10,9 @@
 ![alt text](Result.png)
 
 Дополнительно для демонстрации результатов с помощью встроенных python-виджетов был реализован простейший web-интерфейс:
-![alt text](Menu.png)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/2WelcomeHome1/Buger-Menu-Finder-Model/HEAD?urlpath=%2Fvoila%2Frender%2FBuger_Menu_Finder.ipynb)
+
 
 Данный интерфейс позволяет пользователю загрузить скриншот, нажать кнопку “Find!” и увидеть результат распознавания в виде изображения, на котором бургер-меню выделено красной рамкой. 
 ![alt text](Result2.png)
