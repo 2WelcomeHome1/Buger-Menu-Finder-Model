@@ -1,6 +1,8 @@
 Pillow==9.0.1
 opencv-python-headless==4.5.3.56
 ipywidgets
+bottle==0.11.6
+devpi
 matplotlib==3.5.1
 numpy==1.21.5
 tensorflow==2.10.0
