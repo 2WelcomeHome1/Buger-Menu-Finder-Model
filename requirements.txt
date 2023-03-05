@@ -1,5 +1,5 @@
 Pillow==9.0.1
-opencv-python==4.6.0
+opencv-python==4.6.0.66
 ipywidgets==7.6.5
 matplotlib==3.5.1
 numpy==1.21.5
