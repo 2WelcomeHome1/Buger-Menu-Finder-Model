@@ -1,0 +1,9 @@
+PIL==9.0.1
+cv2==4.6.0
+ipywidgets==7.6.5
+matplotlib==3.5.1
+numpy==1.21.5
+tensorflow==2.10.0
+tensorflow_addons==0.18.0
+traitlets==5.9.0
+voila==0.4.0
